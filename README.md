@@ -8,9 +8,7 @@
 OmmBighnaraj/OmmBighnaraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 My Projects are:
-Three phase load balancing using distribiuted control
-
-power flow.
+Three phase load balancing using distribiuted control power flow.
 
 Library Management with app accessibility.
 Automated Railway line crossing and awarded by Shri- Dharmendra Pradhan 
